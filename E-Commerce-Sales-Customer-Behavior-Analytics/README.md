@@ -27,5 +27,4 @@ Using Excel, SQL Server, and Power BI, the project transforms raw data into inte
 - 📊 Power BI Report (.pbix): [Download from Google Drive](https://drive.google.com/file/d/14uHBvdcORn5PctjikOpQi3FDU1elWMuv/view?usp=sharing)
 - 📄 Excel Workbook (.xlsb): [Download from Google Drive](https://drive.google.com/file/d/1kwFm4LDuujKd5wxXFN32LSu4e-Hufg8O/view?usp=sharing)
 
-
   
