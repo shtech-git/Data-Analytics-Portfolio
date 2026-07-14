@@ -20,3 +20,10 @@ This project analyzes employee attrition data to identify workforce trends, empl
 - Perform data validation and exploratory data analysis (EDA) using Pandas
 - Generate interactive visualizations using Plotly
 - Build interactive dashboards for HR analysis
+
+  ## Project Files
+
+- 📊 Power BI Report (.pbix): [Download from Google Drive](https://drive.google.com/file/d/140yDXwOruLpmM_SEIPOnd2ezDj1nHkHt/view?usp=sharing)
+- 📑 Excel Workbook (.xlsx): [Download from Google Drive](https://docs.google.com/spreadsheets/d/1pvu7ksCg6o_8e_7oVW9t50E5d7wvpbvZ/edit?usp=sharing&ouid=104676998022624923409&rtpof=true&sd=true)
+- 🗄️ SQL Script (.sql): [View / Download](https://drive.google.com/file/d/1-YFFGfLIKH4AGL69xRJWxD-57LdR5t-W/view?usp=sharing)
+- 🐍 Python Notebook (.ipynb): [View / Download](https://drive.google.com/file/d/1E0ARkPW0kYj4n9ERul6JPFgVKSWPbc95/view?usp=sharing)
