@@ -25,4 +25,3 @@ Using Excel, SQL Server, and Power BI, the project transforms raw data into inte
 - 📄 **SQL Script (.sql):** [Download from Google Drive](https://drive.google.com/file/d/1hYjcJ7U-GBLkpdZhu1KP_hk_88gsKg79/view?usp=sharing)
 - 📊 **Power BI Report (.pbix):** [Download from Google Drive](https://drive.google.com/file/d/1jzTKM1e-m6fzPMEhK-dhmA28OfFnoRJ6/view?usp=sharing)
 - 📈 **Excel Workbook (.xlsx):** [Download from Google Drive](https://docs.google.com/spreadsheets/d/1Vw-lDU4-dqAB9B0pjN3BBaQHJn9JKezP/edit?usp=sharing&ouid=104676998022624923409&rtpof=true&sd=true)
-- 
