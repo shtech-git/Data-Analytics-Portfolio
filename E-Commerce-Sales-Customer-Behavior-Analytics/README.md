@@ -6,20 +6,25 @@
 ## Tools Used
 - Excel
 - SQL Server (SSMS)
+- Python (Jupyter Notebook)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 - Power BI
 
 ## Project Overview
-This project analyzes e-commerce transactions and customer clickstream data to evaluate sales performance,
-customer behavior, and conversion trends. 
-Using Excel, SQL Server, and Power BI, the project transforms raw data into interactive dashboards and business insights.
+This project analyzes e-commerce transactions and customer clickstream data to evaluate sales performance, customer behavior, and conversion trends. Using Python, Excel, SQL Server, and Power BI, the project performs data cleaning, feature engineering, KPI analysis, business analysis, and data visualization to generate business insights.
 
 ## Key Objectives
 - Analyze sales performance and revenue trends
 - Identify top-performing products and product categories
 - Analyze customer purchasing behavior
-- Analyze revenue by country, payment method, and device type
+- Analyze revenue by country and payment method
 - Measure customer conversion rate using clickstream events
-- Build interactive dashboards for business analysis
+- Create visualizations using Matplotlib, Seaborn, and Plotly
+- Build an interactive Power BI dashboard
 
 
 ## Project Files
