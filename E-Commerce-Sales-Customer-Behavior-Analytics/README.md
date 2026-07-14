@@ -29,9 +29,9 @@ This project analyzes e-commerce transactions and customer clickstream data to e
 
 ## Project Files
 
-- 🐍 Python Notebook (.ipynb): [View on GitHub](https://drive.google.com/file/d/1oegi5Frbmu1mG6ZzoRt2vH6Qjw6RCmgG/view?usp=sharing)
+- 🐍 Python Notebook (.ipynb): [Download from Google Drive](https://drive.google.com/file/d/1oegi5Frbmu1mG6ZzoRt2vH6Qjw6RCmgG/view?usp=sharing)
 
-- 🗄️ SQL Script (.sql): [View on GitHub](https://drive.google.com/file/d/1NXafvmacrP_IOaroPbjAquO3bj05uQHK/view?usp=sharing)
+- 🗄️ SQL Script (.sql): [Download from Google Drive](https://drive.google.com/file/d/1NXafvmacrP_IOaroPbjAquO3bj05uQHK/view?usp=sharing)
 
 - 📊 Power BI Report (.pbix): [Download from Google Drive](https://drive.google.com/file/d/14uHBvdcORn5PctjikOpQi3FDU1elWMuv/view?usp=sharing)
 - 📄 Excel Workbook (.xlsb): [Download from Google Drive](https://drive.google.com/file/d/1kwFm4LDuujKd5wxXFN32LSu4e-Hufg8O/view?usp=sharing)
